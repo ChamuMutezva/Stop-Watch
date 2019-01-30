@@ -1,0 +1,36 @@
+h1, h2 {
+    text-align: center;
+    color: rgb(54, 34, 68);
+}
+
+div#display {
+    margin: auto;
+    width: 180px;
+    height: 40px;
+    background-color: rgb(233, 238, 241);
+    text-align: center;
+    line-height: 2.5em;
+    font-size: large;
+    font-weight: 700;
+}
+
+button {
+    width: 150px;
+    height: 40px;
+    margin: 10px;
+    font-size: medium;
+    font-weight: 400;
+}
+div#buttonSection {
+    margin: auto;
+    text-align: center;
+}
+div#pastTimes {
+    width: 300px;
+    background: #c5d2d2;
+    /* height: 40Px; */
+    margin: auto;
+    text-align: center;
+    font-size: medium;
+    font-weight: 900;
+}
